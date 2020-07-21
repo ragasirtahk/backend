@@ -1,0 +1,11 @@
+baseURL = "/"
+languageCode = "en-us"
+theme = "hyde"
+title = "Vandana's Blog"
+disqusShortname = "vandana-vision"
+[params]
+description = "Articles | Research Papers | Opinions"
+googleAnalytics = ""
+layoutReverse = false
+theme = "hyde"
+themeColor = ""
